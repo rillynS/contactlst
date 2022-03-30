@@ -1,0 +1,12 @@
+.Input{
+    background: rgba(7, 166, 214, 0.473);
+    border: 2px solid green;
+    border-radius: 3px;
+    outline: none;
+    min-width: 225px;
+    min-height: 40px;
+    font-size: 17px;
+    padding: 5px 10px;
+    font-weight: bold;
+    color: rgb(0, 66, 0);
+}
